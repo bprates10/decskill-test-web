@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.form-upload-file {
+  display: flex;
+  flex-direction: column;
+}
+
+.table {
+  border: 1px solid black;
+}
+
+.table-row {
+  border: 1px solid black;
+}
